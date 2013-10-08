@@ -17,7 +17,7 @@ UI:
 	MainPictureFile := LongPath
 	
 	; Configure window
-	Gui, -AlwaysOnTop +Resize -MaximizeBox +Caption +hwndhMain	
+	Gui, -AlwaysOnTop +Resize -MaximizeBox +MinimizeBox +Caption +hwndhMain	
 	Menu, Tray, Icon, %A_ScriptDir%\osiv.ico,, 1
 	Menu, Tray, Tip, %Title%
 	
@@ -53,7 +53,7 @@ GuiClose:
 	
 OsivDisplayTop()
 {
-	Gui, +AlwaysOnTop -Resize -Caption +E0x20
+	Gui, +AlwaysOnTop -Resize -Caption -MinimizeBox +E0x20
 	WinSet, Transparent, %Opacity%, %Title%
 }
 
