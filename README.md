@@ -22,7 +22,7 @@ You can change the opacity of the window used in *borderless mode* in the settin
 ## Download
 
 You can just download the compiled version contained in the
-[osiv.zip](http://example.net/ "OSIV redistributable") file
+[osiv.zip](https://github.com/Fire-Dragon-DoL/osiv/blob/master/osiv.zip?raw=true "OSIV redistributable") file
 
 ## TODO
 
