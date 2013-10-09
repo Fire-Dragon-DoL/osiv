@@ -24,7 +24,7 @@ You can change the opacity of the window used in *borderless mode* in the settin
 Full screen game is not supported, you have to use Windowed mode or Windowed Borderless mode which is
 usually available in all moderns games. Otherwise, you can try
 [winexp](http://www.nirsoft.net/utils/winexp.html "winexp") which allows you to make any windowed program,
-also borderless and same screen size (which emulates full screen).
+also borderless and full screen size (which emulates full screen behavior).
 
 Notice that usually Windowed Borderless mode behaves like Full Screen mode, so this shouldn't be an issue
 in any case.
@@ -37,10 +37,13 @@ It should be considered as any other background software you have (yea, much lik
 showing the window on top of your game (which is a window, it's not drawing anything **inside** the game
 itself).
 
+If you don't believe me, please watch this image and judge by yourself:
+![OSIV is not a cheat](https://github.com/Fire-Dragon-DoL/osiv/blob/master/osiv_is_not_cheat.jpg?raw=true "OSIV is not a cheat")
+
 ## Download
 
 You can just download the compiled version contained in the
-[osiv.zip](https://github.com/Fire-Dragon-DoL/osiv/blob/master/osiv.zip?raw=true "OSIV redistributable") file
+[osiv.zip](https://github.com/Fire-Dragon-DoL/osiv/blob/master/osiv.zip?raw=true "OSIV redistributable")
 
 ## Demo
 
