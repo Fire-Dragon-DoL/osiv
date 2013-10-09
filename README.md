@@ -41,7 +41,7 @@ If you don't believe me, please watch these 2 images and judge by yourself:
 ![OSIV is not a cheat](https://github.com/Fire-Dragon-DoL/osiv/blob/master/osiv_is_not_cheat.jpg?raw=true "OSIV is not a cheat")
 
 And the second one:
-![OSIV is not a cheat - 2](https://github.com/Fire-Dragon-DoL/osiv/blob/master/osiv_is_not_cheat_2.jpg?raw=true "OSIV is not a cheat - 2")
+![OSIV is not a cheat - 2](https://github.com/Fire-Dragon-DoL/osiv/blob/master/osiv_no_cheat_2.jpg?raw=true "OSIV is not a cheat - 2")
 
 ## Download
 
