@@ -29,9 +29,9 @@ also borderless and same screen size (which emulates full screen).
 Notice that usually Windowed Borderless mode behaves like Full Screen mode, so this shouldn't be an issue
 in any case.
 
-### Third party software?
+### Cheat?
 
-This software shouldn't be considered third party software because it doesn't interact with any other
+This software shouldn't be considered cheating software because it doesn't interact with any other
 software in the operative system. It doesn't perform macros, analyze memory or anything similar.  
 It should be considered as any other background software you have (yea, much like the browser), it's just
 showing the window on top of your game (which is a window, it's not drawing anything **inside** the game
