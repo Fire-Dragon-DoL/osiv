@@ -19,6 +19,24 @@ and press ESC.
 
 You can change the opacity of the window used in *borderless mode* in the settings.ini file
 
+### Full screen game support
+
+Full screen game is not supported, you have to use Windowed mode or Windowed Borderless mode which is
+usually available in all moderns games. Otherwise, you can try
+[winexp](http://www.nirsoft.net/utils/winexp.html "winexp") which allows you to make any windowed program,
+also borderless and same screen size (which emulates full screen).
+
+Notice that usually Windowed Borderless mode behaves like Full Screen mode, so this shouldn't be an issue
+in any case.
+
+### Third party software?
+
+This software shouldn't be considered third party software because it doesn't interact with any other
+software in the operative system. It doesn't perform macros, analyze memory or anything similar.  
+It should be considered as any other background software you have (yea, much like the browser), it's just
+showing the window on top of your game (which is a window, it's not drawing anything **inside** the game
+itself).
+
 ## Download
 
 You can just download the compiled version contained in the
