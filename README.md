@@ -37,11 +37,14 @@ It should be considered as any other background software you have (yea, much lik
 showing the window on top of your game (which is a window, it's not drawing anything **inside** the game
 itself).
 
-If you don't believe me, please watch these 2 images and judge by yourself:
+If you don't believe me, please watch these 3 images and judge by yourself:
 ![OSIV is not a cheat](https://github.com/Fire-Dragon-DoL/osiv/blob/master/osiv_is_not_cheat.jpg?raw=true "OSIV is not a cheat")
 
-And the second one:
+The second one:
 ![OSIV is not a cheat - 2](https://github.com/Fire-Dragon-DoL/osiv/blob/master/osiv_no_cheat_2.jpg?raw=true "OSIV is not a cheat - 2")
+
+And the **best one**:
+![OSIV is not a cheat - 3](https://github.com/Fire-Dragon-DoL/osiv/blob/master/osiv_no_cheat_3.jpg?raw=true "OSIV is not a cheat - 3")
 
 ## Download
 
